@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(104,187,285);
+  font-size: 20px;
+}
+
+#left-box{
+  float: left;
+  background-color: rgb(9,30,45);
+  color: white;
+  left: 0px;width: 380px;
+}
+ul{
+  margin-left: 0px;
+}
+ul li{
+  float: none;
+  list-style: none;
+  text-align: left;
+  width: 380px;
+}
+img{
+  float: none;
+  margin-left: 35px;
+}
+
+.study , .experiences{
+margin-left: 20px;
+  background-color: rgb(9,30,45);
+
+}
+h2{
+  text-decoration: underline;
+  margin-left: 20px;
+}
+#experiences-box, #studies-box{
+  background-color: white;
+  margin-left: 450px;
+  text-align: center;
+  padding-bottom: 10px;padding-right: 20px;
+  font-size: 21px;
+
+}
+#header{
+  background-color: lightblue;
+}
+#footer{
+  background-color: lightblue;
+  height: 100px;
+  width: 100%;
+  margin-top: 100px;
+}
+.experiences, .study{
+    background-color: lightblue;
+}
+#container{
+  padding: 0px 15px 0px 15px;
+}
